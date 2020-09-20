@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'SpyAgency';
+    src: url("../fonts/spyagency.ttf") format('truetype');
+}
+
+.Title {
+    font-family: SpyAgency, serif;
+    font-size: 75px;
+    text-align: center;
+}

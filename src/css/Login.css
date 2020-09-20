@@ -1,0 +1,24 @@
+.login-content {
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-label {
+    text-align: center;
+}
+
+.input {
+    margin: auto;
+    width: 400px;
+    height: 50px;
+    font-size: 40px;
+}
+
+.submit {
+    font-size: 40px;
+    background-color: lime;
+    margin: 30px;
+}

@@ -1,0 +1,22 @@
+.Main {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  background: url("../images/background.jpg");
+}
+
+.Sidebar-container {
+  width: 25%;
+  max-width: 250px;
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
+
+.Page {
+  margin: 75px;
+  padding: 50px;
+  background: lightgrey;
+  width: 100%;
+  border: 5px solid black;
+  border-radius: 10px;
+}
